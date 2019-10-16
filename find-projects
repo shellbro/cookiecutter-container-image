@@ -1,3 +1,0 @@
-#!/usr/bin/bash
-
-/usr/bin/find ~/Git -name Dockerfile -exec /usr/bin/dirname {} \;
