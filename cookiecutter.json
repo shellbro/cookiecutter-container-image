@@ -2,5 +2,6 @@
     "hub_user": "shellbro",
     "repo_name": "hello-world",
     "description": "Container image...",
+    "parent_image": "shellbro/centos:8.0-0",
     "initial_version": "0.1.0-0"
 }
